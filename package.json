@@ -1,0 +1,29 @@
+{
+  "name": "prophecies",
+  "version": "1.0.0",
+  "description": "Prophecies is a hilarious no-limits word game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePendulum/prophecies.git"
+  },
+  "keywords": [
+    "word",
+    "game",
+    "prophecies",
+    "fill",
+    "in",
+    "the",
+    "blank",
+    "fill-in-the-blank"
+  ],
+  "author": "Niels Simenon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePendulum/prophecies/issues"
+  },
+  "homepage": "https://github.com/ThePendulum/prophecies#readme"
+}
